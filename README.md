@@ -1,2 +1,1 @@
-# CG_LAB_PROGRAMS
-CG LAB PROGRAMS
+a couple of opengl programs
